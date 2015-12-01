@@ -1,6 +1,10 @@
 #include <EEPROM.h>
 
 /*
+ * This source file is available from my GitHub repository where you can easily copy it.
+ * Go to https://github.com/pmPartch/IoTSourceProjects/blob/master/eepromTest.ino
+ * and click on the Raw button where you can then copy the file.
+ *
  * The supplied address range is checked (and will issue a warning if out of range)
  * The supplied data for write is checked (and will issue a warning if out of byte range)
  * There are 4 possible commands:
